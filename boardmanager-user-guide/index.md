@@ -6,7 +6,7 @@ Board Manager is an incredibly easy and flexible way to manage and track many di
 
 ![Board Example](/_books/boardmanager-user-guide/images/board-example.png)
 
-## Features
+### Features
 * Unlimited number of boards.
 * Definable lanes on each board.
 * Drag and drop cards between lanes.
@@ -14,3 +14,68 @@ Board Manager is an incredibly easy and flexible way to manage and track many di
 * Sharing boards with controlled access.
 * Card automation.
 * Integration with other Hornbill apps.
+
+## Boards
+* **My Boards**.
+* **Favorites**.
+* **Archived Boards**.
+* **All Boards**.
+* **Templates**.
+
+## Collections
+* **Create a collection**.
+* **Add a board to a collection**.
+
+<!-->
+board overview
+    this page
+Create a board
+    Allowed Types
+    Advanced Configuration
+        Disable syncing data from other apps
+        Disable manual moving of cards
+    Custom Fields
+Board View
+    Toolbar
+        Filter
+        Card Type filter
+        User/Team Filter
+        Custom Buttons
+    Board Administration    
+        Design Board
+        Configure Board
+            Allowed Types
+            Advanced Configuration
+                Disable syncing data from other apps
+                Disable manual moving of cards
+            Custom Fields 
+            Archive
+        Set Theme
+        Share Board
+        Tags
+        Automation
+        See Archived Cards
+        Create Template
+        Print View
+        Standard Size
+        Show Card Titles only
+        View Single Lane
+        Full Screen
+    Lane Configuration
+        Add Card
+        Add Separator
+        Add Note
+        Add Task
+        Calapse Lane
+        Config Lane
+            Width
+                Add Subheadings for each column
+            Options
+                Set lane limit
+                Show date and time the card entered the lane
+                Remove card after it has been in the lane for ...
+                Make this land a rubbish lane
+        Sort Lane
+        Automation
+            Card entering a lane
+            Card exiting a lane
