@@ -14,14 +14,9 @@
   "navigation": {
     "items": [
       {
-        "text": "Introduction",
-        "expand": true,
-        "items": [
-          {
-            "text": "Welcome",
-            "link": "boardmanager-user-guide/index"
-          }
-        ]
+        "text": "Overview",
+        "link": "boardmanager-user-guide/index"
+       
       }
     ]
   },
