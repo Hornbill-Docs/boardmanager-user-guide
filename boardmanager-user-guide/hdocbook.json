@@ -1,0 +1,29 @@
+{
+  "docId": "boardmanager-user-guide",
+  "title": "Board Manager User Guide",
+  "description": "How to use the Board Manager application",
+  "publicSource": "https://github.com/Hornbill-Docs/boardmanager-user-guide",
+  "productFamily": "hdocs",
+  "version": "0.0.0",
+  "audience": [
+    "public"
+  ],
+  "languages": [
+    "en"
+  ],
+  "navigation": {
+    "items": [
+      {
+        "text": "Introduction",
+        "expand": true,
+        "items": [
+          {
+            "text": "Welcome",
+            "link": "boardmanager-user-guide/index"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": []
+}
