@@ -15,16 +15,19 @@ Board Manager is an incredibly easy and flexible way to manage and track many di
 * Card automation.
 * Integration with other Hornbill apps.
 
+### How to access
+
 ## Boards
-* **My Boards**.
-* **Favorites**.
-* **Archived Boards**.
-* **All Boards**.
-* **Templates**.
+* **My Boards**. Displays all of the boards that you own.  You will automatically become the owner of a board that you create.
+* **Favorites**. Any board that has been marked as a favorite will be shown here.  This provides quick access to those boards that you use the most.
+* **Archived Boards**. Display a list of boards that have been archived.
+* **All Boards**. Displays all of the boards that you own and that have been shared with you.
+* **Templates**. Displays all of the available templates from which you can create new boards.
 
 ## Collections
-* **Create a collection**.
-* **Add a board to a collection**.
+Collections are customized groups of boards.  A collection can be a group of related boards 
+* **Create a collection**. From the list of collections, click on the + button to add a new collection to the list.
+* **Add a board to a collection**. On any of the tiles the represent an existing board, over the mouse over the tile and click on the add to collection button.  A list of collections will be displayed.  You can add a board to one or more collections.
 
 <!-->
 board overview
