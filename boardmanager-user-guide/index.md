@@ -29,6 +29,18 @@ Collections are customized groups of boards.  A collection can be a group of rel
 * **Create a collection**. From the list of collections, click on the + button to add a new collection to the list.
 * **Add a board to a collection**. On any of the tiles that represent an existing board, over the mouse over the tile and click on the add to collection button.  A list of collections will be displayed.  You can add a board to one or more collections.
 
+## Add a board
+On the main boards page there is a `+ Add Board` button.  Clicking on this will start the steps to creating a new board.
+
+* **Name**. The name of the board which is displayed in the card view and when looking at the board.  It is also used in all areas that integrate with boards.
+* **Description**. The description is displayed as a sub-heading to the name and can be seen on the board's card and when viewing the board.
+* **Allowed Types**. Card, organization, post, separator, email, note, and task are default types that are available for a board.  Additional types might be added from other Hornbill applications that integrate with Board Manaer.
+* **Advanced Config**. 
+        * Disable syncing data from different Applications
+        * Disable manual moving of cards (so that cards can only be moved via workflow)
+* **Custom Fields**.
+
+
 <!--
 board overview
     this page
