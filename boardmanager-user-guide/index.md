@@ -36,8 +36,8 @@ On the main boards page there is a `+ Add Board` button.  Clicking on this will 
 * **Description**. The description is displayed as a sub-heading to the name and can be seen on the board's card and when viewing the board.
 * **Allowed Types**. Card, organization, post, separator, email, note, and task are default types that are available for a board.  Additional types might be added from other Hornbill applications that integrate with Board Manaer.
 * **Advanced Config**.
-    * Disable syncing data from different applications.
-    * Disable manual moving of cards (so that cards can only be moved via workflow).
+    * ***Disable syncing data from different applications***. By default, cards will populate their title and contents directly from the app that they originated from. If this information changes in the app, this will be reflected on the card.  In some cases, users want to change this information and prevent it from being updated by the app. To do this the syncing needs to be disabled.
+    * Disable manual moving of cards (so that cards can only be moved via workflow). 
 * **Custom Fields**.
 
 <!--
