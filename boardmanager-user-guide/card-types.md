@@ -39,7 +39,7 @@ Note's can be used to add a simple comment to a board. Notes can be added direct
 
 ## App Specific Card Types
 
-As well as the native card types explained above which can be added to a board directly from the board view, it is also possible to add cards to reflect different application specific entities. These card types can be added to a board manually using a board plugin in the app, and or automatically via the business process engine, and configured in the workflow designer.
+As well as the native card types explained above which can be added to a board directly from the board view, it is also possible to add cards to reflect different application specific entities. These card types can be added to a board manually using a board plugin in the app, and or automatically using a workflow.
 
 ### Platform
 
